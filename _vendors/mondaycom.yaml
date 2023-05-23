@@ -2,7 +2,7 @@
 base_pricing: $8 per u/m
 name: Monday.com
 footnotes: '[^mondaycom]: There is a free tier, but it's limited to 2 seats.'
-percent_increase: 286%
+percent_increase: 463%
 pricing_note: Min 10 Users
 pricing_source: https://monday.com/pricing/
 sso_pricing: $45 per u/m
